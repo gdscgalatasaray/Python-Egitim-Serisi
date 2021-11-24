@@ -62,7 +62,7 @@ Have fun!
 
 You can access our training series videos at the following link: https://www.gdscgalatasaray.com/egitim_serileri/python
 
-### Python Training Serie
+### Syllabus
 
 Lesson 01 | Data Types
 
