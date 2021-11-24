@@ -13,6 +13,7 @@ Eğitim serisi videolarımıza şu linkten ulaşabilirsiniz: https://www.gdscgal
 ### Python Eğitim Serisi Konu Başlıkları
 
 Ders 01 | Veri Tipleri
+
 Ders 02 | Operatörler
 Ders 03 | String Metotları
 Ders 04 | Substringler
